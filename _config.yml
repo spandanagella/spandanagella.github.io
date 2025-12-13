@@ -1,0 +1,55 @@
+locale: "en-US"
+title: "Spandana Gella"
+title_separator: "|"
+subtitle: "Research Manager @ ServiceNow AI Research"
+name: "Spandana Gella"
+description: "Research Manager at ServiceNow AI Research, working on multimodal foundation models, safety, and AI agents."
+url: "https://spandanagella.github.io"
+baseurl: ""
+repository: "spandanagella/spandanagella.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "air"
+
+author:
+  name: "Spandana Gella"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Research Manager, Multimodal Foundational Models Program @ ServiceNow AI Research"
+  location: "Montreal, Canada"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:spandana.gella@servicenow.com"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=fChTW6MAAAAJ"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/spandanagella"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/spandana-gella-313b7019/"
+    - label: "ServiceNow Research"
+      icon: "fas fa-fw fa-building"
+      url: "https://www.servicenow.com/research/author/spandana-gella.html"
+
+include:
+  - _pages
+
+permalink: /:categories/:title/
+timezone: America/Montreal
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

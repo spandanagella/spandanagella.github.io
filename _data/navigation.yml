@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Google Scholar"
+    url: https://scholar.google.com/citations?user=fChTW6MAAAAJ
+  - title: "GitHub"
+    url: https://github.com/spandanagella
