@@ -7,7 +7,7 @@ classes: wide
 
 # About Me
 
-I am a **Research Scientist** and **Research Manager** of the Multimodal Foundational Models Program at [ServiceNow AI Research](https://www.servicenow.com/research/). My research focuses on building robust and safe multimodal foundation models, with interests spanning multimodal understanding, document AI, AI safety, and autonomous agents.
+I am a **Research Scientist** and **Sr. Research Manager** of the Enterprise Reliability at [ServiceNow AI Research](https://www.servicenow.com/research/). My research focuses on building robust and safe, secure and robust foundation models, with interests spanning multimodal understanding, document AI, AI safety, and autonomous agents.
 
 I received my **Ph.D. in Computer Science** from the **University of Edinburgh**, UK, where I was advised by [Prof. Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) and [Prof. Frank Keller](https://homepages.inf.ed.ac.uk/keller/). Prior to ServiceNow, I worked at **Amazon AI** and **Alexa AI** for 6 years, and interned at **Meta AI Research** and **Microsoft Research**.
 
