@@ -10,6 +10,14 @@ For a complete and up-to-date list, see my [Google Scholar](https://scholar.goog
 
 ---
 
+## 2026
+
+**StarFlow: Generating Structured Workflow Outputs From Sketch Images**  
+Patrice Bechard, Chao Wang, Amirhossein Abaskohi, Juan Rodriguez, Christopher Pal, David Vazquez, **Spandana Gella**, Sai Rajeswar, Perouz Taslakian  
+*EACL 2026* [[paper]](https://arxiv.org/abs/2503.21889)
+
+---
+
 ## 2025
 
 **AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Understanding**  
