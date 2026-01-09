@@ -26,7 +26,6 @@ I am an active member of the academic community—I have organized workshops (Re
 
 ## News
 
-- **2026**: [StarFlow](https://arxiv.org/abs/2503.21889): Generating Structured Workflow Outputs From Sketch Images accepted at EACL 2026 as main conference paper
 - **2025**: Multiple papers accepted at NeurIPS, ICML, ICLR, EMNLP, and COLM!
 - **2025**: [SafeArena](https://github.com/McGill-NLP/safearena) benchmark for evaluating web agent safety accepted at ICML 2025
 - **2025**: [BigDocs](https://github.com/ServiceNow/stardoc) dataset accepted at ICLR 2025
