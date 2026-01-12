@@ -26,6 +26,7 @@ I am an active member of the academic community—I have organized workshops (Re
 
 ## News
 
+- **2026**: [StarFlow](https://arxiv.org/abs/2503.21889): Generating Structured Workflow Outputs From Sketch Images accepted at EACL 2026 as main conference paper
 - **2025**: Multiple papers accepted at NeurIPS, ICML, ICLR, EMNLP, and COLM!
 - **2025**: [SafeArena](https://github.com/McGill-NLP/safearena) benchmark for evaluating web agent safety accepted at ICML 2025
 - **2025**: [BigDocs](https://github.com/ServiceNow/stardoc) dataset accepted at ICLR 2025
@@ -36,21 +37,60 @@ I am an active member of the academic community—I have organized workshops (Re
 
 See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) for a complete list.
 
-**SafeArena: Evaluating the Safety of Autonomous Web Agents**  
-Ada Tur, Nicholas Meade, ..., **Spandana Gella**, Karolina Stanczak, Siva Reddy  
-*ICML 2025* [[paper]](https://arxiv.org/abs/2503.04957) [[code]](https://github.com/McGill-NLP/safearena)
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2503.21889"><img src="/assets/images/papers/2503.21889.png" alt="StarFlow" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>StarFlow: Generating Structured Workflow Outputs From Sketch Images</strong><br>
+    Patrice Bechard, Chao Wang, Amirhossein Abaskohi, Juan Rodriguez, Christopher Pal, David Vazquez, <strong>Spandana Gella</strong>, Sai Rajeswar, Perouz Taslakian<br>
+    <em>EACL 2026</em> [[paper]](https://arxiv.org/abs/2503.21889)
+  </div>
+</div>
 
-**UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction**  
-Shravan Nayak, ..., **Spandana Gella**, Sai Rajeswar Mudumba  
-*ICML 2025* [[paper]](https://arxiv.org/abs/2503.15661) [[code]](https://github.com/uivision/UI-Vision)
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2503.04957"><img src="/assets/images/papers/2503.04957.png" alt="SafeArena" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>SafeArena: Evaluating the Safety of Autonomous Web Agents</strong><br>
+    Ada Tur, Nicholas Meade, ..., <strong>Spandana Gella</strong>, Karolina Stanczak, Siva Reddy<br>
+    <em>ICML 2025</em> [[paper]](https://arxiv.org/abs/2503.04957) [[code]](https://github.com/McGill-NLP/safearena)
+  </div>
+</div>
 
-**BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models**  
-Juan A. Rodriguez, ..., **Spandana Gella**, et al.  
-*ICLR 2025* [[paper]](https://arxiv.org/abs/2412.04626) [[code]](https://github.com/ServiceNow/stardoc)
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2503.15661"><img src="/assets/images/papers/2503.15661.png" alt="UI-Vision" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction</strong><br>
+    Shravan Nayak, ..., <strong>Spandana Gella</strong>, Sai Rajeswar Mudumba<br>
+    <em>ICML 2025</em> [[paper]](https://arxiv.org/abs/2503.15661) [[code]](https://github.com/uivision/UI-Vision)
+  </div>
+</div>
 
-**AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Understanding**  
-Ahmed Masry, ..., **Spandana Gella**, Sai Rajeswar Mudumba  
-*NeurIPS 2025* [[paper]](https://arxiv.org/abs/2502.01341)
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2412.04626"><img src="/assets/images/papers/2412.04626.png" alt="BigDocs" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models</strong><br>
+    Juan A. Rodriguez, ..., <strong>Spandana Gella</strong>, et al.<br>
+    <em>ICLR 2025</em> [[paper]](https://arxiv.org/abs/2412.04626) [[code]](https://github.com/ServiceNow/stardoc)
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2502.01341"><img src="/assets/images/papers/2502.01341.png" alt="AlignVLM" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Understanding</strong><br>
+    Ahmed Masry, ..., <strong>Spandana Gella</strong>, Sai Rajeswar Mudumba<br>
+    <em>NeurIPS 2025</em> [[paper]](https://arxiv.org/abs/2502.01341)
+  </div>
+</div>
 
 ---
 
