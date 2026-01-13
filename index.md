@@ -44,7 +44,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) 
   <div>
     <strong>StarFlow: Generating Structured Workflow Outputs From Sketch Images</strong><br>
     Patrice Bechard, Chao Wang, Amirhossein Abaskohi, Juan Rodriguez, Christopher Pal, David Vazquez, <strong>Spandana Gella</strong>, Sai Rajeswar, Perouz Taslakian<br>
-    <em>EACL 2026</em> [[paper]](https://arxiv.org/abs/2503.21889)
+    <em>EACL 2026</em> <a href="https://arxiv.org/abs/2503.21889">[paper]</a>
   </div>
 </div>
 
@@ -55,7 +55,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) 
   <div>
     <strong>SafeArena: Evaluating the Safety of Autonomous Web Agents</strong><br>
     Ada Tur, Nicholas Meade, ..., <strong>Spandana Gella</strong>, Karolina Stanczak, Siva Reddy<br>
-    <em>ICML 2025</em> [[paper]](https://arxiv.org/abs/2503.04957) [[code]](https://github.com/McGill-NLP/safearena)
+    <em>ICML 2025</em> <a href="https://arxiv.org/abs/2503.04957">[paper]</a> <a href="https://github.com/McGill-NLP/safearena">[code]</a>
   </div>
 </div>
 
@@ -66,7 +66,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) 
   <div>
     <strong>UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction</strong><br>
     Shravan Nayak, ..., <strong>Spandana Gella</strong>, Sai Rajeswar Mudumba<br>
-    <em>ICML 2025</em> [[paper]](https://arxiv.org/abs/2503.15661) [[code]](https://github.com/uivision/UI-Vision)
+    <em>ICML 2025</em> <a href="https://arxiv.org/abs/2503.15661">[paper]</a> <a href="https://github.com/uivision/UI-Vision">[code]</a>
   </div>
 </div>
 
@@ -77,7 +77,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) 
   <div>
     <strong>BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models</strong><br>
     Juan A. Rodriguez, ..., <strong>Spandana Gella</strong>, et al.<br>
-    <em>ICLR 2025</em> [[paper]](https://arxiv.org/abs/2412.04626) [[code]](https://github.com/ServiceNow/stardoc)
+    <em>ICLR 2025</em> <a href="https://arxiv.org/abs/2412.04626">[paper]</a> <a href="https://github.com/ServiceNow/stardoc">[code]</a>
   </div>
 </div>
 
@@ -88,7 +88,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) 
   <div>
     <strong>AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Understanding</strong><br>
     Ahmed Masry, ..., <strong>Spandana Gella</strong>, Sai Rajeswar Mudumba<br>
-    <em>NeurIPS 2025</em> [[paper]](https://arxiv.org/abs/2502.01341)
+    <em>NeurIPS 2025</em> <a href="https://arxiv.org/abs/2502.01341">[paper]</a>
   </div>
 </div>
 
