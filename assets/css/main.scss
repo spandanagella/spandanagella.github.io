@@ -23,15 +23,26 @@
 
 // Make profile picture bigger
 .author__avatar img {
-  max-width: 200px !important;
-  width: 200px !important;
-  height: 200px !important;
+  max-width: 250px !important;
+  width: 250px !important;
+  height: 250px !important;
   border-radius: 50% !important;
 }
 
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 200px !important;
-  height: 200px !important;
+  width: 250px !important;
+  height: 250px !important;
+}
+
+// Reduce left spacing before sidebar
+.sidebar {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+.sidebar__right {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
 }
