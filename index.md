@@ -99,6 +99,17 @@ See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2508.09804"><img src="/assets/images/papers/2508.09804.png" alt="BigCharts-R1" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>BigCharts-R1: Enhanced Chart Reasoning with Visual Reinforcement Finetuning</strong><br>
+    Ahmed Masry, Abhay Puri, Masoud Hashemi, Juan A. Rodriguez, ..., Perouz Taslakian, Sai Rajeswar, <strong>Spandana Gella</strong><br>
+    <em>COLM 2025</em> <a href="https://arxiv.org/abs/2508.09804">[paper]</a> <a href="https://bigcharts.github.io/">[website]</a> <a href="https://github.com/ServiceNow/BigCharts-R1">[code]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
     <a href="https://arxiv.org/abs/2502.01341"><img src="/assets/images/papers/2502.01341.png" alt="AlignVLM" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
   </div>
   <div>
