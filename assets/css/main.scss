@@ -1,0 +1,10 @@
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// Custom styles to override header background color
+.masthead {
+  background-color: #ffffff !important;
+}
