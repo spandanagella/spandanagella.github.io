@@ -14,11 +14,11 @@ For a complete and up-to-date list, see my [Google Scholar](https://scholar.goog
 
 **AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Understanding**  
 Ahmed Masry, Juan A. Rodriguez, Tianyu Zhang, Suyuchen Wang, ..., David Vazquez, Perouz Taslakian, **Spandana Gella**, Sai Rajeswar  
-*NeurIPS 2025* [[paper]](https://arxiv.org/abs/2502.01341)
+*NeurIPS 2025* [[paper]](https://arxiv.org/abs/2502.01341) [[website]](https://alignvlm.github.io/)
 
 **BigCharts-R1: Enhanced Chart Reasoning with Visual Reinforcement Finetuning**  
 Ahmed Masry, Abhay Puri, Masoud Hashemi, Juan A. Rodriguez, ..., Perouz Taslakian, Sai Rajeswar, **Spandana Gella**  
-*COLM 2025* [[paper]](https://arxiv.org/abs/2508.09804)
+*COLM 2025* [[paper]](https://arxiv.org/abs/2508.09804) [[website]](https://bigcharts.github.io/)
 
 **WebMMU: A Benchmark for Multimodal Multilingual Website Understanding and Code Generation**  
 Rabiul Awal, Mahsa Massoud, Aarash Feizi, Zichao Li, Suyuchen Wang, Christopher Pal, Aishwarya Agrawal, David Vazquez, Siva Reddy, Juan A. Rodriguez, Perouz Taslakian, **Spandana Gella**, Sai Rajeswar  
@@ -34,15 +34,15 @@ Ahmed Masry, Megh Thakkar, Patrice Bechard, Sathwik Tejaswi Madhusudhan, Rabiul 
 
 **UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction**  
 Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Juan A. Rodriguez, Montek Kalsi, Rabiul Awal, Nicolas Chapados, M. Tamer Özsu, Aishwarya Agrawal, David Vazquez, Christopher Pal, Perouz Taslakian, **Spandana Gella**, Sai Rajeswar  
-*ICML 2025* [[paper]](https://arxiv.org/abs/2503.15661) [[code]](https://github.com/uivision/UI-Vision)
+*ICML 2025* [[paper]](https://arxiv.org/abs/2503.15661) [[website]](https://uivision.github.io/) [[code]](https://github.com/uivision/UI-Vision)
 
 **SafeArena: Evaluating the Safety of Autonomous Web Agents**  
 Ada Defne Tur, Nicholas Meade, Xing Han Lù, Alejandra Zambrano, Arkil Patel, Esin Durmus, **Spandana Gella**, Karolina Stańczak, Siva Reddy  
-*ICML 2025* [[paper]](https://arxiv.org/abs/2503.04957) [[code]](https://github.com/McGill-NLP/safearena)
+*ICML 2025* [[paper]](https://arxiv.org/abs/2503.04957) [[website]](https://safearena.github.io/) [[code]](https://github.com/McGill-NLP/safearena)
 
 **BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models on Document and Code Tasks**  
 Juan A. Rodriguez, Xiangru Jian, Siba Smarak Panigrahi, ..., Issam Laradji, **Spandana Gella**, Perouz Taslakian, David Vazquez, Sai Rajeswar  
-*ICLR 2025* [[paper]](https://arxiv.org/abs/2412.04626) [[code]](https://github.com/ServiceNow/stardoc)
+*ICLR 2025* [[paper]](https://arxiv.org/abs/2412.04626) [[website]](https://bigdocs.github.io/) [[code]](https://github.com/ServiceNow/stardoc)
 
 ---
 
