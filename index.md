@@ -5,6 +5,22 @@ author_profile: true
 classes: wide
 ---
 
+<style>
+  body {
+    background-color: #ffffff !important;
+  }
+  h1, h2, h3, h4, h5, h6,
+  .page__title,
+  .page__content h1,
+  .page__content h2,
+  .page__content h3,
+  .page__content h4,
+  .page__content h5,
+  .page__content h6 {
+    color: #0056b3 !important;
+  }
+</style>
+
 # About Me
 
 I am a **Research Scientist** and **Sr. Research Manager** of the Enterprise Reliability at [ServiceNow AI Research](https://www.servicenow.com/research/). My research focuses on building robust and safe, secure and robust foundation models, with interests spanning multimodal understanding, document AI, AI safety, and autonomous agents.
@@ -28,8 +44,8 @@ I am an active member of the academic community—I have organized workshops (Re
 
 - **2026**: [StarFlow](https://arxiv.org/abs/2503.21889): Generating Structured Workflow Outputs From Sketch Images accepted at EACL 2026 as main conference paper
 - **2025**: Multiple papers accepted at NeurIPS, ICML, ICLR, EMNLP, and COLM!
-- **2025**: [SafeArena](https://github.com/McGill-NLP/safearena) benchmark for evaluating web agent safety accepted at ICML 2025
-- **2025**: [BigDocs](https://github.com/ServiceNow/stardoc) dataset accepted at ICLR 2025
+- **2025**: SafeArena benchmark for evaluating web agent safety accepted at ICML 2025
+- **2025**: BigDocs dataset accepted at ICLR 2025
 
 ---
 
@@ -55,7 +71,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) 
   <div>
     <strong>SafeArena: Evaluating the Safety of Autonomous Web Agents</strong><br>
     Ada Tur, Nicholas Meade, ..., <strong>Spandana Gella</strong>, Karolina Stanczak, Siva Reddy<br>
-    <em>ICML 2025</em> <a href="https://arxiv.org/abs/2503.04957">[paper]</a> <a href="https://github.com/McGill-NLP/safearena">[code]</a>
+    <em>ICML 2025</em> <a href="https://arxiv.org/abs/2503.04957">[paper]</a>
   </div>
 </div>
 
@@ -66,7 +82,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) 
   <div>
     <strong>UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction</strong><br>
     Shravan Nayak, ..., <strong>Spandana Gella</strong>, Sai Rajeswar Mudumba<br>
-    <em>ICML 2025</em> <a href="https://arxiv.org/abs/2503.15661">[paper]</a> <a href="https://github.com/uivision/UI-Vision">[code]</a>
+    <em>ICML 2025</em> <a href="https://arxiv.org/abs/2503.15661">[paper]</a>
   </div>
 </div>
 
@@ -77,7 +93,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) 
   <div>
     <strong>BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models</strong><br>
     Juan A. Rodriguez, ..., <strong>Spandana Gella</strong>, et al.<br>
-    <em>ICLR 2025</em> <a href="https://arxiv.org/abs/2412.04626">[paper]</a> <a href="https://github.com/ServiceNow/stardoc">[code]</a>
+    <em>ICLR 2025</em> <a href="https://arxiv.org/abs/2412.04626">[paper]</a>
   </div>
 </div>
 
