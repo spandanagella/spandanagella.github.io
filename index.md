@@ -23,9 +23,9 @@ classes: wide
 
 # About Me
 
-I am a **Research Scientist** and **Sr. Research Manager** of the Enterprise Reliability at [ServiceNow AI Research](https://www.servicenow.com/research/). My research focuses on building robust and safe, secure and robust foundation models, with interests spanning multimodal understanding, document AI, AI safety, and autonomous agents.
+I am a **Research Scientist** and **Senior Research Manager** in the Enterprise Reliability group at [ServiceNow AI Research](https://www.servicenow.com/research/), and I am also an **Adjunct Faculty member** at the School of Computer Science, [McGill University](https://www.mcgill.ca/). My research focuses on building robust, safe, and secure foundation models, with interests spanning multimodal understanding, AI safety, multi-agent security and privacy, and autonomous agents.
 
-I received my **Ph.D. in Computer Science** from the **University of Edinburgh**, UK, where I was advised by [Prof. Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) and [Prof. Frank Keller](https://homepages.inf.ed.ac.uk/keller/). Prior to ServiceNow, I worked at **Amazon AI** and **Alexa AI** for 6 years, and interned at **Meta AI Research** and **Microsoft Research**.
+I received my **Ph.D. in Computer Science** from the **University of Edinburgh**, UK, where I was advised by [Prof. Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) and [Prof. Frank Keller](https://homepages.inf.ed.ac.uk/keller/). Prior to joining ServiceNow, I worked at **Amazon AI** and **Alexa AI** for six years. I have also worked as a visiting researcher at **Meta AI Research** and **Microsoft Research** Redmond and India.
 
 I am an active member of the academic community—I have organized workshops (RepL4NLP 2018-2022), shared tasks, and served as Area Chair and Program Committee member at major NLP/ML conferences.
 
@@ -34,9 +34,8 @@ I am an active member of the academic community—I have organized workshops (Re
 ## Research Interests
 
 - **Multimodal Foundation Models**: Vision-language models, document understanding, chart reasoning
-- **AI Safety**: Safe deployment of autonomous agents, evaluating agent safety
-- **Dialogue Systems**: Task-oriented dialogue, embodied agents, conversational AI
-- **Representation Learning**: Cross-lingual and multimodal representations
+- **AI Agents Reliability**: Safe deployment of autonomous agents, evaluating agent safety
+- **Multi-agent Security and Privacy**: Security and privacy in multi-agent systems
 
 ---
 
@@ -44,7 +43,6 @@ I am an active member of the academic community—I have organized workshops (Re
 
 - **2026**: GroundCUA and DrBench accepted at ICLR 2026
 - **2026**: [StarFlow](https://arxiv.org/abs/2503.21889): Generating Structured Workflow Outputs From Sketch Images accepted at EACL 2026 as main conference paper
-- **2025**: Multiple papers accepted at NeurIPS, ICML, ICLR, EMNLP, and COLM!
 - **2025**: SafeArena benchmark for evaluating web agent safety accepted at ICML 2025
 - **2025**: BigDocs dataset accepted at ICLR 2025
 
