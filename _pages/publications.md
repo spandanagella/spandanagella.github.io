@@ -26,6 +26,22 @@ For a complete and up-to-date list, see my [Google Scholar](https://scholar.goog
 
 ---
 
+## 2026
+
+**Grounding Computer Use Agents on Human Demonstrations**
+Aarash Feizi, Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Kaixin Li, Rabiul Awal, Xing Han Lù, Johan Obando-Ceron, Juan A. Rodriguez, Nicolas Chapados, David Vazquez, Adriana Romero-Soriano, Reihaneh Rabbany, Perouz Taslakian, Christopher Pal, **Spandana Gella**, Sai Rajeswar
+*ICLR 2026* [[paper]](https://arxiv.org/abs/2511.07332) [[website]](https://groundcua.github.io/) [[code]](https://github.com/ServiceNow/GroundCUA) [[dataset]](https://huggingface.co/datasets/ServiceNow/GroundCUA)
+
+**DRBench: A Realistic Benchmark for Enterprise Deep Research**
+Amirhossein Abaskohi, Tianyi Chen, Miguel Muñoz-Mármol, Curtis Fox, Amrutha Varshini Ramesh, Étienne Marcotte, Xing Han Lù, Nicolas Chapados, **Spandana Gella**, Christopher Pal, Alexandre Drouin, Issam H. Laradji
+*ICLR 2026* [[paper]](https://arxiv.org/abs/2510.00172) [[dataset]](https://huggingface.co/datasets/ServiceNow/drbench)
+
+**StarFlow: Generating Structured Workflow Outputs From Sketch Images**
+Patrice Bechard, Chao Wang, Amirhossein Abaskohi, Juan Rodriguez, Christopher Pal, David Vazquez, **Spandana Gella**, Sai Rajeswar, Perouz Taslakian
+*EACL 2026* [[paper]](https://arxiv.org/abs/2503.21889) [[website]](https://servicenow.github.io/StarFlow/)
+
+---
+
 ## 2025
 
 **AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Understanding**  

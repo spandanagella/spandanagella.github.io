@@ -42,6 +42,7 @@ I am an active member of the academic community—I have organized workshops (Re
 
 ## News
 
+- **2026**: GroundCUA and DrBench accepted at ICLR 2026
 - **2026**: [StarFlow](https://arxiv.org/abs/2503.21889): Generating Structured Workflow Outputs From Sketch Images accepted at EACL 2026 as main conference paper
 - **2025**: Multiple papers accepted at NeurIPS, ICML, ICLR, EMNLP, and COLM!
 - **2025**: SafeArena benchmark for evaluating web agent safety accepted at ICML 2025
@@ -52,6 +53,22 @@ I am an active member of the academic community—I have organized workshops (Re
 ## Selected Publications
 
 See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) for a complete list.
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div>
+    <strong>Grounding Computer Use Agents on Human Demonstrations</strong><br>
+    Aarash Feizi, Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Kaixin Li, Rabiul Awal, Xing Han Lù, Johan Obando-Ceron, Juan A. Rodriguez, Nicolas Chapados, David Vazquez, Adriana Romero-Soriano, Reihaneh Rabbany, Perouz Taslakian, Christopher Pal, <strong>Spandana Gella</strong>, Sai Rajeswar<br>
+    <em>ICLR 2026</em> <a href="https://arxiv.org/abs/2511.07332">[paper]</a> <a href="https://groundcua.github.io/">[website]</a> <a href="https://github.com/ServiceNow/GroundCUA">[code]</a> <a href="https://huggingface.co/datasets/ServiceNow/GroundCUA">[dataset]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div>
+    <strong>DRBench: A Realistic Benchmark for Enterprise Deep Research</strong><br>
+    Amirhossein Abaskohi, Tianyi Chen, Miguel Muñoz-Mármol, Curtis Fox, Amrutha Varshini Ramesh, Étienne Marcotte, Xing Han Lù, Nicolas Chapados, <strong>Spandana Gella</strong>, Christopher Pal, Alexandre Drouin, Issam H. Laradji<br>
+    <em>ICLR 2026</em> <a href="https://arxiv.org/abs/2510.00172">[paper]</a> <a href="https://huggingface.co/datasets/ServiceNow/drbench">[dataset]</a>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="margin-right: 15px; flex-shrink: 0;">
