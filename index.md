@@ -55,6 +55,9 @@ I am an active member of the academic community—I have organized workshops (Re
 See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) for a complete list.
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2511.07332"><img src="/assets/images/papers/2511.07332.png" alt="GroundCUA" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
   <div>
     <strong>Grounding Computer Use Agents on Human Demonstrations</strong><br>
     Aarash Feizi, Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Kaixin Li, Rabiul Awal, Xing Han Lù, Johan Obando-Ceron, Juan A. Rodriguez, Nicolas Chapados, David Vazquez, Adriana Romero-Soriano, Reihaneh Rabbany, Perouz Taslakian, Christopher Pal, <strong>Spandana Gella</strong>, Sai Rajeswar<br>
@@ -63,6 +66,9 @@ See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) 
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2510.00172"><img src="/assets/images/papers/2510.00172.png" alt="DRBench" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
   <div>
     <strong>DRBench: A Realistic Benchmark for Enterprise Deep Research</strong><br>
     Amirhossein Abaskohi, Tianyi Chen, Miguel Muñoz-Mármol, Curtis Fox, Amrutha Varshini Ramesh, Étienne Marcotte, Xing Han Lù, Nicolas Chapados, <strong>Spandana Gella</strong>, Christopher Pal, Alexandre Drouin, Issam H. Laradji<br>
