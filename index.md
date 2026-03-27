@@ -42,7 +42,7 @@ I am an active member of the academic community—I have organized workshops (Re
 ## News
 
 - **2026**: Presenting a tutorial on Multimodal Agents at EACL 2026
-- **2026**: CUA-Suite released — a suite of benchmarks and tools for evaluating computer use agents
+- **2026**: [CUA-Suite](https://cua-suite.github.io/) released — a suite of benchmarks and tools for evaluating computer use agents
 - **2026**: GroundCUA and DrBench accepted at ICLR 2026
 - **2026**: [StarFlow](https://arxiv.org/abs/2503.21889): Generating Structured Workflow Outputs From Sketch Images accepted at EACL 2026 as main conference paper
 - **2025**: SafeArena benchmark for evaluating web agent safety accepted at ICML 2025
