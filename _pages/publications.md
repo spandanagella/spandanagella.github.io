@@ -29,7 +29,7 @@ For a complete and up-to-date list, see my [Google Scholar](https://scholar.goog
 ## 2026
 
 **Grounding Computer Use Agents on Human Demonstrations**
-Aarash Feizi, Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Kaixin Li, Rabiul Awal, Xing Han Lù, Johan Obando-Ceron, Juan A. Rodriguez, Nicolas Chapados, David Vazquez, Adriana Romero-Soriano, Reihaneh Rabbany, Perouz Taslakian, Christopher Pal, **Spandana Gella**, Sai Rajeswar
+Aarash Feizi, Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Kaixin Li, Rabiul Awal, Xing Han Lù, Johan Obando-Ceron, Juan A. Rodriguez, Nicolas Chapados, David Vazquez, Adriana Romero-Soriano, Reihaneh Rabbany, Perouz Taslakian, Christopher Pal, Sai Rajeswar, **Spandana Gella**
 *ICLR 2026* [[paper]](https://arxiv.org/abs/2511.07332) [[website]](https://groundcua.github.io/) [[code]](https://github.com/ServiceNow/GroundCUA) [[dataset]](https://huggingface.co/datasets/ServiceNow/GroundCUA)
 
 **DRBench: A Realistic Benchmark for Enterprise Deep Research**

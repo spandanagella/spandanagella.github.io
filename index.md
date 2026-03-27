@@ -41,6 +41,8 @@ I am an active member of the academic community—I have organized workshops (Re
 
 ## News
 
+- **2026**: Presenting a tutorial on Multimodal Agents at EACL 2026
+- **2026**: CUA-Suite released — a suite of benchmarks and tools for evaluating computer use agents
 - **2026**: GroundCUA and DrBench accepted at ICLR 2026
 - **2026**: [StarFlow](https://arxiv.org/abs/2503.21889): Generating Structured Workflow Outputs From Sketch Images accepted at EACL 2026 as main conference paper
 - **2025**: SafeArena benchmark for evaluating web agent safety accepted at ICML 2025
@@ -58,7 +60,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) 
   </div>
   <div>
     <strong>Grounding Computer Use Agents on Human Demonstrations</strong><br>
-    Aarash Feizi, Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Kaixin Li, Rabiul Awal, Xing Han Lù, Johan Obando-Ceron, Juan A. Rodriguez, Nicolas Chapados, David Vazquez, Adriana Romero-Soriano, Reihaneh Rabbany, Perouz Taslakian, Christopher Pal, <strong>Spandana Gella</strong>, Sai Rajeswar<br>
+    Aarash Feizi, Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Kaixin Li, Rabiul Awal, Xing Han Lù, Johan Obando-Ceron, Juan A. Rodriguez, Nicolas Chapados, David Vazquez, Adriana Romero-Soriano, Reihaneh Rabbany, Perouz Taslakian, Christopher Pal, Sai Rajeswar, <strong>Spandana Gella</strong><br>
     <em>ICLR 2026</em> <a href="https://arxiv.org/abs/2511.07332">[paper]</a> <a href="https://groundcua.github.io/">[website]</a> <a href="https://github.com/ServiceNow/GroundCUA">[code]</a> <a href="https://huggingface.co/datasets/ServiceNow/GroundCUA">[dataset]</a>
   </div>
 </div>
