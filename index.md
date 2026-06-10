@@ -23,7 +23,7 @@ classes: wide
 
 # About Me
 
-I am a **Research Scientist** and **Senior Research Manager** in the Enterprise Reliability group at [ServiceNow AI Research](https://www.servicenow.com/research/), and I am also an **Adjunct Faculty member** at the School of Computer Science, [McGill University](https://www.mcgill.ca/). My research focuses on building robust, safe, and secure foundation models, with interests spanning multimodal understanding, AI safety, multi-agent security and privacy, and autonomous agents.
+I am a **Research Lead** and **Sr. Manager** for Agentic Defenses and Harnesses at [ServiceNow AI Research](https://www.servicenow.com/research/), and I am also an **Adjunct Faculty member** at the School of Computer Science, [McGill University](https://www.mcgill.ca/). My research focuses on building robust and safe AI agents — spanning agentic harnesses, defenses against adversarial and unsafe behavior, reliable agent evaluation, and multi-agent security and privacy.
 
 I received my **Ph.D. in Computer Science** from the **University of Edinburgh**, UK, where I was advised by [Prof. Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) and [Prof. Frank Keller](https://homepages.inf.ed.ac.uk/keller/). Prior to joining ServiceNow, I worked at **Amazon AI** and **Alexa AI** for six years. I have also worked as a visiting researcher at **Meta AI Research** and **Microsoft Research** Redmond and India.
 
@@ -33,14 +33,16 @@ I am an active member of the academic community—I have organized workshops (Re
 
 ## Research Interests
 
-- **Multimodal Foundation Models**: Vision-language models, document understanding, chart reasoning
-- **AI Agents Reliability**: Safe deployment of autonomous agents, evaluating agent safety
-- **Multi-agent Security and Privacy**: Security and privacy in multi-agent systems
+- **Robust & Safe Agents**: Building reliable autonomous agents; defenses against adversarial, unsafe, and out-of-distribution behavior
+- **Agentic Harnesses & Evaluation**: Benchmarks, tooling, and guardrails for evaluating and deploying agents safely
+- **Multi-agent Security & Privacy**: Security and privacy in multi-agent systems
 
 ---
 
 ## News
 
+- **2026**: [MosaicLeaks](https://arxiv.org/pdf/2605.30727): our paper on how deep research agents leak private information through their open web queries is out
+- **2026**: Organizing the [Lifelong Agents workshop](https://lifelongagent.github.io/) at COLM 2026
 - **2026**: Presenting a tutorial on Multimodal Agents at [EACL 2026](https://mllm4haii.github.io/) — [slides](https://drive.google.com/file/d/14M9BitUWukBwnURgihzxG9zUYSAfWEnN/view?usp=sharing)
 - **2026**: [CUA-Suite](https://cua-suite.github.io/) released — a suite of benchmarks and tools for evaluating computer use agents
 - **2026**: GroundCUA and DrBench accepted at ICLR 2026
