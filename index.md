@@ -23,11 +23,11 @@ classes: wide
 
 # About Me
 
-I am a **Research Lead** and **Sr. Manager** for Agentic Defenses and Harnesses at [ServiceNow AI Research](https://www.servicenow.com/research/), and I am also an **Adjunct Faculty member** at the School of Computer Science, [McGill University](https://www.mcgill.ca/). My research focuses on building robust and safe AI agents — spanning agentic harnesses, defenses against adversarial and unsafe behavior, reliable agent evaluation, and multi-agent security and privacy.
+I am a **Research Lead** and **Sr Staff Research Scientist** for Agentic Defenses and Harnesses at [ServiceNow AI Research](https://www.servicenow.com/research/), and I am also an **Adjunct Faculty member** at the School of Computer Science, [McGill University](https://www.mcgill.ca/). My research focuses on building robust and safe AI agents: agentic harnesses, defenses against adversarial and unsafe behavior, reliable agent evaluation, and multi-agent security and privacy.
 
 I received my **Ph.D. in Computer Science** from the **University of Edinburgh**, UK, where I was advised by [Prof. Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) and [Prof. Frank Keller](https://homepages.inf.ed.ac.uk/keller/). Prior to joining ServiceNow, I worked at **Amazon AI** and **Alexa AI** for six years. I have also worked as a visiting researcher at **Meta AI Research** and **Microsoft Research** Redmond and India.
 
-I am an active member of the academic community—I have organized workshops (RepL4NLP 2018-2022), shared tasks, and served as Area Chair and Program Committee member at major NLP/ML conferences.
+I've organized workshops (RepL4NLP 2018–2022) and shared tasks, and served as Area Chair and Program Committee member at major NLP/ML conferences.
 
 ---
 
@@ -41,6 +41,8 @@ I am an active member of the academic community—I have organized workshops (Re
 
 ## News
 
+- **2026**: [Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents](https://arxiv.org/pdf/2606.15017) accepted at EMNLP 2026 (main conference)
+- **2026**: [VectorGym: A Multitask Benchmark for SVG Code Generation, Sketching, and Editing](https://arxiv.org/pdf/2603.29852) accepted at EMNLP 2026 (main conference)
 - **2026**: [MosaicLeaks](https://arxiv.org/pdf/2605.30727): our paper on how deep research agents leak private information through their open web queries is out
 - **2026**: Organizing the [Lifelong Agents workshop](https://lifelongagent.github.io/) at COLM 2026
 - **2026**: Presenting a tutorial on Multimodal Agents at [EACL 2026](https://mllm4haii.github.io/) — [slides](https://drive.google.com/file/d/14M9BitUWukBwnURgihzxG9zUYSAfWEnN/view?usp=sharing)
