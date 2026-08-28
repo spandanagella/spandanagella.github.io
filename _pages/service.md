@@ -59,17 +59,17 @@ ACL 2022
 NAACL,EMNLP, AACL, Women in Machine Learning, AFAA (ICLR 2026)
 
 **PC Member**
-Africa NLP 2020
-Integrating Generic and Contextual Knowledge (GeCko) 2020
-Workshop on Noisy User-Generated Text (W-NUT) — 2020, 2021
-Workshop Beyond Vision and LANguage: inTEgrating RealWorld kNowledge (LANTERN) — 2019, 2020
-Methods for Optimizing and Evaluating Neural Language Generation Workshop (NeuralGen) — 2019
-Ethics in NLP — 2017, 2018
-Generalization in Deep Learning and Natural Language Processing (GenDep) — 2018
-Workshop on Natural Language Processing for Social Media — 2016-2018
+- Africa NLP 2020
+- Integrating Generic and Contextual Knowledge (GeCko) 2020
+- Workshop on Noisy User-Generated Text (W-NUT) — 2020, 2021
+- Workshop Beyond Vision and LANguage: inTEgrating RealWorld kNowledge (LANTERN) — 2019, 2020
+- Methods for Optimizing and Evaluating Neural Language Generation Workshop (NeuralGen) — 2019
+- Ethics in NLP — 2017, 2018
+- Generalization in Deep Learning and Natural Language Processing (GenDep) — 2018
+- Workshop on Natural Language Processing for Social Media — 2016-2018
 
 **Reviewer** (2011-Present)
-TACL, ACL, NAACL, EMNLP, ICML, ICLR, NeurIPS, IJCAI, COLING, EACL, IWSLT, *SEM, WiML, ALTA
+TACL, ACL, NAACL, EMNLP, ARR, ICML, ICLR, NeurIPS, IJCAI, COLING, EACL, IWSLT, *SEM, WiML, ALTA
 
 ---
 
