@@ -41,8 +41,8 @@ I've organized workshops (RepL4NLP 2018–2022) and shared tasks, and served as 
 
 ## News
 
-- **2026**: [Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents](https://arxiv.org/pdf/2606.15017) accepted at EMNLP 2026 (main conference)
-- **2026**: [VectorGym: A Multitask Benchmark for SVG Code Generation, Sketching, and Editing](https://arxiv.org/pdf/2603.29852) accepted at EMNLP 2026 (main conference)
+- **2026**: [Budget-Constrained Web Agents](https://arxiv.org/pdf/2606.15017) accepted at EMNLP 2026 (main conference)
+- **2026**: [VectorGym](https://arxiv.org/pdf/2603.29852) accepted at EMNLP 2026 (main conference)
 - **2026**: [MosaicLeaks](https://arxiv.org/pdf/2605.30727): our paper on how deep research agents leak private information through their open web queries is out
 - **2026**: Organizing the [Lifelong Agents workshop](https://lifelongagent.github.io/) at COLM 2026
 - **2026**: Presenting a tutorial on Multimodal Agents at [EACL 2026](https://mllm4haii.github.io/) — [slides](https://drive.google.com/file/d/14M9BitUWukBwnURgihzxG9zUYSAfWEnN/view?usp=sharing)
@@ -57,6 +57,18 @@ I've organized workshops (RepL4NLP 2018–2022) and shared tasks, and served as 
 ## Selected Publications
 
 See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) for a complete list.
+
+<div style="margin-bottom: 20px;">
+  <strong>Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents</strong><br>
+  Sina Hajimiri, Masih Aminbeidokhti, Jose Dolz, Ismail Ben Ayed, Issam H. Laradji, Nicolas Gontier*, <strong>Spandana Gella*</strong><br>
+  <em>EMNLP 2026</em> <a href="https://arxiv.org/pdf/2606.15017">[paper]</a>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <strong>VectorGym: A Multitask Benchmark for SVG Code Generation, Sketching, and Editing</strong><br>
+  Joan Rodriguez, Haotian Zhang, Abhay Puri, Aly Shariff, Meng Lin, Xiaoqing Xie, Tianyang Zhang, Haoran Dai, Rishav Pramanik, Darsh Kaushik, Marco Terral Rodriguez, Sai Rajeswar, Perouz Taslakian, <strong>Spandana Gella</strong>, David Vazquez, Christopher Pal, Marco Pedersoli<br>
+  <em>EMNLP 2026</em> <a href="https://arxiv.org/pdf/2603.29852">[paper]</a>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="margin-right: 15px; flex-shrink: 0;">
