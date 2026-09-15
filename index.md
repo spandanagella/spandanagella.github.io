@@ -58,16 +58,26 @@ I've organized workshops (RepL4NLP 2018–2022) and shared tasks, and served as 
 
 See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) for a complete list.
 
-<div style="margin-bottom: 20px;">
-  <strong>Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents</strong><br>
-  Sina Hajimiri, Masih Aminbeidokhti, Jose Dolz, Ismail Ben Ayed, Issam H. Laradji, Nicolas Gontier*, <strong>Spandana Gella*</strong><br>
-  <em>EMNLP 2026</em> <a href="https://arxiv.org/pdf/2606.15017">[paper]</a>
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/pdf/2606.15017"><img src="/assets/images/papers/2606.15017.png" alt="Budget-Constrained Web Agents" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents</strong><br>
+    Sina Hajimiri, Masih Aminbeidokhti, Jose Dolz, Ismail Ben Ayed, Issam H. Laradji, Nicolas Gontier*, <strong>Spandana Gella*</strong><br>
+    <em>EMNLP 2026</em> <a href="https://arxiv.org/pdf/2606.15017">[paper]</a> <a href="https://sinahmr.github.io/budget-constrained-web-agents/">[website]</a> <a href="https://github.com/ServiceNow/budget-constrained-web-agents">[code]</a>
+  </div>
 </div>
 
-<div style="margin-bottom: 20px;">
-  <strong>VectorGym: A Multitask Benchmark for SVG Code Generation, Sketching, and Editing</strong><br>
-  Joan Rodriguez, Haotian Zhang, Abhay Puri, Aly Shariff, Meng Lin, Xiaoqing Xie, Tianyang Zhang, Haoran Dai, Rishav Pramanik, Darsh Kaushik, Marco Terral Rodriguez, Sai Rajeswar, Perouz Taslakian, <strong>Spandana Gella</strong>, David Vazquez, Christopher Pal, Marco Pedersoli<br>
-  <em>EMNLP 2026</em> <a href="https://arxiv.org/pdf/2603.29852">[paper]</a>
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/pdf/2603.29852"><img src="/assets/images/papers/2603.29852.png" alt="VectorGym" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>VectorGym: A Multitask Benchmark for SVG Code Generation, Sketching, and Editing</strong><br>
+    Joan Rodriguez, Haotian Zhang, Abhay Puri, Aly Shariff, Meng Lin, Xiaoqing Xie, Tianyang Zhang, Haoran Dai, Rishav Pramanik, Darsh Kaushik, Marco Terral Rodriguez, Sai Rajeswar, Perouz Taslakian, <strong>Spandana Gella</strong>, David Vazquez, Christopher Pal, Marco Pedersoli<br>
+    <em>EMNLP 2026</em> <a href="https://arxiv.org/pdf/2603.29852">[paper]</a> <a href="https://github.com/ServiceNow/VectorGym">[code]</a> <a href="https://huggingface.co/datasets/ServiceNow/VectorGym">[dataset]</a>
+  </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">

@@ -30,11 +30,11 @@ For a complete and up-to-date list, see my [Google Scholar](https://scholar.goog
 
 **Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents**
 Sina Hajimiri, Masih Aminbeidokhti, Jose Dolz, Ismail Ben Ayed, Issam H. Laradji, Nicolas Gontier*, **Spandana Gella***
-*EMNLP 2026* [[paper]](https://arxiv.org/pdf/2606.15017)
+*EMNLP 2026* [[paper]](https://arxiv.org/pdf/2606.15017) [[website]](https://sinahmr.github.io/budget-constrained-web-agents/) [[code]](https://github.com/ServiceNow/budget-constrained-web-agents)
 
 **VectorGym: A Multitask Benchmark for SVG Code Generation, Sketching, and Editing**
 Joan Rodriguez, Haotian Zhang, Abhay Puri, Aly Shariff, Meng Lin, Xiaoqing Xie, Tianyang Zhang, Haoran Dai, Rishav Pramanik, Darsh Kaushik, Marco Terral Rodriguez, Sai Rajeswar, Perouz Taslakian, **Spandana Gella**, David Vazquez, Christopher Pal, Marco Pedersoli
-*EMNLP 2026* [[paper]](https://arxiv.org/pdf/2603.29852)
+*EMNLP 2026* [[paper]](https://arxiv.org/pdf/2603.29852) [[code]](https://github.com/ServiceNow/VectorGym) [[dataset]](https://huggingface.co/datasets/ServiceNow/VectorGym)
 
 **Grounding Computer Use Agents on Human Demonstrations**
 Aarash Feizi, Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Kaixin Li, Rabiul Awal, Xing Han Lù, Johan Obando-Ceron, Juan A. Rodriguez, Nicolas Chapados, David Vazquez, Adriana Romero-Soriano, Reihaneh Rabbany, Perouz Taslakian, Christopher Pal, Sai Rajeswar, **Spandana Gella**
