@@ -30,7 +30,7 @@ classes: wide
 
 ## Tutorials
 
-- **Multimodal Large Language Models for Human-AI Interaction: Foundations, Agents, and Inclusive Applications** — EACL 2026
+- **Multimodal Large Language Models for Human-AI Interaction: Foundations, Agents, and Inclusive Applications** — EACL 2026 [[slides]](https://drive.google.com/file/d/14M9BitUWukBwnURgihzxG9zUYSAfWEnN/view)
 
 ---
 
