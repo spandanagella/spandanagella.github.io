@@ -75,43 +75,6 @@ TACL, ACL, NAACL, EMNLP, ARR, ICML, ICLR, NeurIPS, IJCAI, COLING, EACL, IWSLT, *
 
 ## Mentoring
 
-Students and collaborators I've mentored:
-
-| Mentee | Years | Affiliation |
-|---|---|---|
-| Clea Chataigner | 2026 | McGill, Mila (Comp 767 Project Supervision) |
-| Thomas Rivasseau | 2026 | McGill (Comp 767 Project Supervision) |
-| Eric Qiu | 2026 | McGill (Comp 767 Project Supervision) |
-| Evan Jiang | 2026 | McGill (Comp 767 Project Supervision) |
-| Sabyasachi Sahoo | 2026 | University of Laval, Mila |
-| David Dobre | 2026 | University of Montreal, Mila |
-| Manveer Singh Tamber | 2026 | University of Waterloo → MATS Fellow |
-| Sina Hajimiri | 2025-26 | ETS, Mila |
-| Xiaoxiang Wang | 2025-26 | University of Montreal, Mila |
-| Charbel El Feghali | 2025-26 | McGill, Mila |
-| Soumya Sharma | 2025-26 | McGill, Mila |
-| Ada Tur | 2025 | McGill, Mila → UIUC, NSF Fellow |
-| Amirhossein Abaskohi | 2024-25 | University of British Columbia |
-| Amrutha Varshini | 2024-25 | University of British Columbia |
-| Suyuchen Wang | 2025 | UdeM, Mila → Now at Alibaba Qwen |
-| Juan A. Rodriguez | 2024-25 | ETS, Mila → Founder of Quiver AI |
-| Zichao Li | 2025 | McGill, Mila |
-| Ahmed Masry | 2024-25 | University of York |
-| Shravan Nayak | 2024-25 | UdeM, Mila |
-| Aarash Feizi | 2024-25 | McGill, Mila |
-| Xiangru Jian | 2024-25 | University of Waterloo |
-| Rabiul Awal | 2024 | UdeM, Mila |
-| Tianyu Zhang | 2024 | UdeM, Mila |
-| Mahsa Massoud | 2024 | McGill, Mila → Now at Microsoft AI |
-| Nicholas Meade | 2022-2025 | McGill, Mila |
-| Mert Inan | 2022 | Northeastern University |
-| Chao Zhao | 2022 | UNC, Chapel Hill → Now at Google DeepMind |
-| Prakhar Gupta | 2022 | CMU → Now at Google DeepMind |
-| Lisa Bauer | 2021 | UNC, Chapel Hill → Now at Amazon AGI |
-| Sashank Santhanam | 2021 | UNC, Charlotte → Now at Apple |
-| Arjun Akula | 2019 | UCLA → Now at Google DeepMind |
-| Lifu Tu | 2019 | TTIC → Now at Salesforce Research |
-| Shruti Palaskar | 2019 | CMU → Now at Apple |
-| Sailik Sengupta | 2019 | ASU → Now at Amazon AI |
+I have mentored and collaborated with more than 20 students, several of whom are now working at Amazon AGI, Microsoft AI, Google DeepMind, and Salesforce Research.
 
 **Career Support:** Several junior research engineers and scientists (ServiceNow AI Research, CoreLLM-ServiceNow, Amazon AI), Deep Learning INDABA, high school/young university students (AI for Good Lab, Mila Quebec), WiML mentor.
