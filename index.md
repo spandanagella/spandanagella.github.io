@@ -23,11 +23,11 @@ classes: wide
 
 # About Me
 
-I am a **Research Lead** and **Sr Staff Research Scientist** for Agentic Defenses and Harnesses at [ServiceNow AI Research](https://www.servicenow.com/research/), and I am also an **Adjunct Faculty member** at the School of Computer Science, [McGill University](https://www.mcgill.ca/). My research focuses on building robust and safe AI agents: agentic harnesses, defenses against adversarial and unsafe behavior, reliable agent evaluation, and multi-agent security and privacy.
+I am a **Research Lead** and **Sr Staff Research Scientist** for Safety and Security of Agents at [ServiceNow AI Research](https://www.servicenow.com/research/), and I am also an **Adjunct Faculty member** at the School of Computer Science, [McGill University](https://www.mcgill.ca/). My research focuses on building robust and safe AI agents: agentic harnesses, defenses against adversarial and unsafe behavior, reliable agent evaluation, and multi-agent security and privacy.
 
 I received my **Ph.D. in Computer Science** from the **University of Edinburgh**, UK, where I was advised by [Prof. Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) and [Prof. Frank Keller](https://homepages.inf.ed.ac.uk/keller/). Prior to joining ServiceNow, I worked at **Amazon AI** and **Alexa AI** for six years. I have also worked as a visiting researcher at **Meta AI Research** and **Microsoft Research** Redmond and India.
 
-I've organized workshops (RepL4NLP 2018–2022) and shared tasks, and served as Area Chair and Program Committee member at major NLP/ML conferences.
+I've organized workshops and shared tasks, and served as Area Chair and Program Committee member at major NLP/ML conferences.
 
 ---
 
