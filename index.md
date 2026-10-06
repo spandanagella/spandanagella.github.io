@@ -41,6 +41,7 @@ I've organized workshops and shared tasks, and served as Area Chair and Program 
 
 ## News
 
+- **2026**: Will be presenting [PrivacyAlign](https://privacyalign.github.io/), MosaicLeaks, and Loose Lips at HAIPS@COLM
 - **2026**: [Budget-Constrained Web Agents](https://arxiv.org/pdf/2606.15017) accepted at EMNLP 2026 (main conference)
 - **2026**: [VectorGym](https://arxiv.org/pdf/2603.29852) accepted at EMNLP 2026 (main conference)
 - **2026**: [MosaicLeaks](https://arxiv.org/pdf/2605.30727): our paper on how deep research agents leak private information through their open web queries is out
