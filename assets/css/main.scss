@@ -6,6 +6,9 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// White page background everywhere (the "air" skin defaults to light grey)
+body, .initial-content, #main, .page, .page__content { background-color: #ffffff !important; }
+
 // Custom styles to override header background color
 .masthead {
   background-color: #ffffff !important;
