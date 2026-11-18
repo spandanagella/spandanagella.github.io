@@ -2,9 +2,13 @@
 layout: single
 title: "Invited Talks/Panels"
 permalink: /talks/
-author_profile: true
-classes: wide
+author_profile: false
+classes: [wide, home-page]
 ---
+
+{% include home-nav.html %}
+
+<h1 class="page-title">Invited Talks/Panels</h1>
 
 ## 2026
 

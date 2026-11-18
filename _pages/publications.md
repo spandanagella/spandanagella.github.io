@@ -2,25 +2,13 @@
 layout: single
 title: "Publications"
 permalink: /publications/
-author_profile: true
-classes: wide
+author_profile: false
+classes: [wide, home-page]
 ---
 
-<style>
-  body {
-    background-color: #ffffff !important;
-  }
-  h1, h2, h3, h4, h5, h6,
-  .page__title,
-  .page__content h1,
-  .page__content h2,
-  .page__content h3,
-  .page__content h4,
-  .page__content h5,
-  .page__content h6 {
-    color: #0056b3 !important;
-  }
-</style>
+{% include home-nav.html %}
+
+<h1 class="page-title">Publications</h1>
 
 For a complete and up-to-date list, see my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) and [DBLP](https://dblp.org/pid/146/3968.html) profiles.
 
