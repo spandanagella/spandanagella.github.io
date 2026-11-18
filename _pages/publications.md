@@ -26,6 +26,123 @@ For a complete and up-to-date list, see my [Google Scholar](https://scholar.goog
 
 ---
 
+## Selected Publications
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/pdf/2606.15017"><img src="/assets/images/papers/2606.15017.png" alt="Budget-Constrained Web Agents" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents</strong><br>
+    Sina Hajimiri, Masih Aminbeidokhti, Jose Dolz, Ismail Ben Ayed, Issam H. Laradji, Nicolas Gontier*, <strong>Spandana Gella*</strong><br>
+    <em>EMNLP 2026</em> <a href="https://arxiv.org/pdf/2606.15017">[paper]</a> <a href="https://sinahmr.github.io/budget-constrained-web-agents/">[website]</a> <a href="https://github.com/ServiceNow/budget-constrained-web-agents">[code]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/pdf/2603.29852"><img src="/assets/images/papers/2603.29852.png" alt="VectorGym" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>VectorGym: A Multitask Benchmark for SVG Code Generation, Sketching, and Editing</strong><br>
+    Joan Rodriguez, Haotian Zhang, Abhay Puri, Aly Shariff, Meng Lin, Xiaoqing Xie, Tianyang Zhang, Haoran Dai, Rishav Pramanik, Darsh Kaushik, Marco Terral Rodriguez, Sai Rajeswar, Perouz Taslakian, <strong>Spandana Gella</strong>, David Vazquez, Christopher Pal, Marco Pedersoli<br>
+    <em>EMNLP 2026</em> <a href="https://arxiv.org/pdf/2603.29852">[paper]</a> <a href="https://github.com/ServiceNow/VectorGym">[code]</a> <a href="https://huggingface.co/datasets/ServiceNow/VectorGym">[dataset]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2511.07332"><img src="/assets/images/papers/2511.07332.png" alt="GroundCUA" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>Grounding Computer Use Agents on Human Demonstrations</strong><br>
+    Aarash Feizi, Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Kaixin Li, Rabiul Awal, Xing Han Lù, Johan Obando-Ceron, Juan A. Rodriguez, Nicolas Chapados, David Vazquez, Adriana Romero-Soriano, Reihaneh Rabbany, Perouz Taslakian, Christopher Pal, Sai Rajeswar, <strong>Spandana Gella</strong><br>
+    <em>ICLR 2026</em> <a href="https://arxiv.org/abs/2511.07332">[paper]</a> <a href="https://groundcua.github.io/">[website]</a> <a href="https://github.com/ServiceNow/GroundCUA">[code]</a> <a href="https://huggingface.co/datasets/ServiceNow/GroundCUA">[dataset]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2510.00172"><img src="/assets/images/papers/2510.00172.png" alt="DRBench" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>DRBench: A Realistic Benchmark for Enterprise Deep Research</strong><br>
+    Amirhossein Abaskohi, Tianyi Chen, Miguel Muñoz-Mármol, Curtis Fox, Amrutha Varshini Ramesh, Étienne Marcotte, Xing Han Lù, Nicolas Chapados, <strong>Spandana Gella</strong>, Christopher Pal, Alexandre Drouin, Issam H. Laradji<br>
+    <em>ICLR 2026</em> <a href="https://arxiv.org/abs/2510.00172">[paper]</a> <a href="https://huggingface.co/datasets/ServiceNow/drbench">[dataset]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2503.21889"><img src="/assets/images/papers/2503.21889.png" alt="StarFlow" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>StarFlow: Generating Structured Workflow Outputs From Sketch Images</strong><br>
+    Patrice Bechard, Chao Wang, Amirhossein Abaskohi, Juan Rodriguez, Christopher Pal, David Vazquez, <strong>Spandana Gella</strong>, Sai Rajeswar, Perouz Taslakian<br>
+    <em>EACL 2026</em> <a href="https://arxiv.org/abs/2503.21889">[paper]</a> <a href="https://servicenow.github.io/StarFlow/">[website]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2503.04957"><img src="/assets/images/papers/2503.04957.png" alt="SafeArena" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>SafeArena: Evaluating the Safety of Autonomous Web Agents</strong><br>
+    Ada Tur, Nicholas Meade, ..., <strong>Spandana Gella</strong>, Karolina Stanczak, Siva Reddy<br>
+    <em>ICML 2025</em> <a href="https://arxiv.org/abs/2503.04957">[paper]</a> <a href="https://safearena.github.io/">[website]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2503.15661"><img src="/assets/images/papers/2503.15661.png" alt="UI-Vision" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction</strong><br>
+    Shravan Nayak, ..., <strong>Spandana Gella</strong>, Sai Rajeswar Mudumba<br>
+    <em>ICML 2025</em> <a href="https://arxiv.org/abs/2503.15661">[paper]</a> <a href="https://uivision.github.io/">[website]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2412.04626"><img src="/assets/images/papers/2412.04626.png" alt="BigDocs" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models</strong><br>
+    Juan A. Rodriguez, ..., <strong>Spandana Gella</strong>, et al.<br>
+    <em>ICLR 2025</em> <a href="https://arxiv.org/abs/2412.04626">[paper]</a> <a href="https://bigdocs.github.io/">[website]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2508.09804"><img src="/assets/images/papers/2508.09804.png" alt="BigCharts-R1" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>BigCharts-R1: Enhanced Chart Reasoning with Visual Reinforcement Finetuning</strong><br>
+    Ahmed Masry, Abhay Puri, Masoud Hashemi, Juan A. Rodriguez, ..., Perouz Taslakian, Sai Rajeswar, <strong>Spandana Gella</strong><br>
+    <em>COLM 2025</em> <a href="https://arxiv.org/abs/2508.09804">[paper]</a> <a href="https://bigcharts.github.io/">[website]</a> <a href="https://github.com/ServiceNow/BigCharts-R1">[code]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="margin-right: 15px; flex-shrink: 0;">
+    <a href="https://arxiv.org/abs/2502.01341"><img src="/assets/images/papers/2502.01341.png" alt="AlignVLM" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+  </div>
+  <div>
+    <strong>AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Understanding</strong><br>
+    Ahmed Masry, ..., <strong>Spandana Gella</strong>, Sai Rajeswar Mudumba<br>
+    <em>NeurIPS 2025</em> <a href="https://arxiv.org/abs/2502.01341">[paper]</a> <a href="https://alignvlm.github.io/">[website]</a>
+  </div>
+</div>
+
+---
+
+## All Publications
+
 ## 2026
 
 **Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents**

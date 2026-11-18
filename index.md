@@ -1,174 +1,72 @@
 ---
 layout: single
 title: ""
-author_profile: true
-classes: wide
+author_profile: false
+classes: [wide, home-page]
 ---
 
-<style>
-  body {
-    background-color: #ffffff !important;
-  }
-  h1, h2, h3, h4, h5, h6,
-  .page__title,
-  .page__content h1,
-  .page__content h2,
-  .page__content h3,
-  .page__content h4,
-  .page__content h5,
-  .page__content h6 {
-    color: #0056b3 !important;
-  }
-</style>
+<div class="home" markdown="0">
 
-# About Me
-
-I am a **Research Lead** and **Sr Staff Research Scientist** for Safety and Security of Agents at [ServiceNow AI Research](https://www.servicenow.com/research/), and I am also an **Adjunct Faculty member** at the School of Computer Science, [McGill University](https://www.mcgill.ca/). My research focuses on building robust and safe AI agents: agentic harnesses, defenses against adversarial and unsafe behavior, reliable agent evaluation, and multi-agent security and privacy.
-
-I received my **Ph.D. in Computer Science** from the **University of Edinburgh**, UK, where I was advised by [Prof. Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) and [Prof. Frank Keller](https://homepages.inf.ed.ac.uk/keller/). Prior to joining ServiceNow, I worked at **Amazon AI** and **Alexa AI** for six years. I have also worked as a visiting researcher at **Meta AI Research** and **Microsoft Research** Redmond and India.
-
-I've organized workshops and shared tasks, and served as Area Chair and Program Committee member at major NLP/ML conferences.
-
----
-
-## Research Interests
-
-- **Robust & Safe Agents**: Building reliable autonomous agents; defenses against adversarial, unsafe, and out-of-distribution behavior
-- **Agentic Harnesses & Evaluation**: Benchmarks, tooling, and guardrails for evaluating and deploying agents safely
-- **Multi-agent Security & Privacy**: Security and privacy in multi-agent systems
-
----
-
-## News
-
-- **2026**: Will be presenting [PrivacyAlign](https://privacyalign.github.io/), MosaicLeaks, and Loose Lips at HAIPS@COLM
-- **2026**: [Budget-Constrained Web Agents](https://arxiv.org/pdf/2606.15017) accepted at EMNLP 2026 (main conference)
-- **2026**: [VectorGym](https://arxiv.org/pdf/2603.29852) accepted at EMNLP 2026 (main conference)
-- **2026**: [MosaicLeaks](https://arxiv.org/pdf/2605.30727): our paper on how deep research agents leak private information through their open web queries is out
-- **2026**: Organizing the [Lifelong Agents workshop](https://lifelongagent.github.io/) at COLM 2026
-- **2026**: Presenting a tutorial on Multimodal Agents at [EACL 2026](https://mllm4haii.github.io/) — [slides](https://drive.google.com/file/d/14M9BitUWukBwnURgihzxG9zUYSAfWEnN/view?usp=sharing)
-- **2026**: [CUA-Suite](https://cua-suite.github.io/) released — a suite of benchmarks and tools for evaluating computer use agents
-- **2026**: GroundCUA and DrBench accepted at ICLR 2026
-- **2026**: [StarFlow](https://arxiv.org/abs/2503.21889): Generating Structured Workflow Outputs From Sketch Images accepted at EACL 2026 as main conference paper
-
----
-
-## Selected Publications
-
-See my [Google Scholar](https://scholar.google.com/citations?user=fChTW6MAAAAJ) for a complete list.
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="margin-right: 15px; flex-shrink: 0;">
-    <a href="https://arxiv.org/pdf/2606.15017"><img src="/assets/images/papers/2606.15017.png" alt="Budget-Constrained Web Agents" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
+<nav class="home-nav">
+  <div class="social">
+    <a href="mailto:spandana.gella@servicenow.com" title="Email"><svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"/></svg></a>
+    <a href="https://scholar.google.com/citations?user=fChTW6MAAAAJ" title="Google Scholar"><svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true"><path d="M12 3 1 9l4 2.18V17c0 .55.45 1 1 1h12c.55 0 1-.45 1-1v-5.82L21 9l-9-6zM5 13.18V11l7 3.82 7-3.82v2.18l-7 3.82-7-3.82zM12 12.82 3.5 8.5 12 4.18 20.5 8.5 12 12.82z"/></svg></a>
+    <a href="https://www.semanticscholar.org/author/Spandana-Gella/2921001" title="Semantic Scholar"><svg viewBox="0 -64 512 512" fill="currentColor" width="20" height="20" aria-hidden="true"><path transform="translate(0 384) scale(1 -1)" d="M379.087 372.798c18.168 -40.6836 25.5332 -83.8896 32.4209 -127.209c-1.26562 -0.359375 -2.52832 -0.72168 -3.79395 -1.08301c-0.911133 2.5332 -1.98438 5.02148 -2.70703 7.60938c-5.21875 18.6543 -10.4795 37.2969 -15.4736 56.0117 c-1.79688 6.73242 -6.03516 10.084 -12.0957 13.3818c-8.90137 4.84082 -17.3135 11.083 -24.6904 18.0449c-4.70703 4.44141 -8.73438 7.14941 -15.4131 7.07812c-44.46 -0.469727 -88.9258 -0.514648 -133.384 -0.923828 c-2.96387 -0.0292969 -6.63086 -1.12402 -8.72852 -3.06445c-8.08887 -7.48535 -15.6709 -15.5146 -25.6416 -25.5557c26.2988 -64.041 39.5225 -133.841 33.8447 -208.045c-12.626 8.08398 -22.4004 14.4795 -22.9814 31.418 c-2.90332 84.6611 -29.0195 161.225 -83.5801 227.108c-1.22754 1.48242 -1.83691 3.47559 -2.7373 5.22949h284.961v-0.000976563zM48.7295 340.153c12.6631 0 25.333 0.200195 37.9844 -0.171875c2.51074 -0.0722656 6.02246 -1.66797 7.27734 -3.67969 c37.8359 -60.791 67.333 -124.636 71.1553 -197.683c0.0175781 -0.289062 -0.283203 -0.594727 -1.36328 -2.7168c-22.6113 77.2939 -63.4033 142.736 -115.871 201.392c0.274414 0.951172 0.544922 1.90527 0.818359 2.8584zM8.00098 286.971 c18.0889 0.658203 33.3887 1.31738 48.6904 1.60254c1.54199 0.0292969 3.36133 -2.00879 4.65137 -3.44336c29.8477 -33.2021 56.9355 -68.2812 73.6318 -110.235c3.17773 -7.97949 5.35156 -16.3594 7.98926 -24.5547c-34.584 54.4248 -82.7109 95.123 -134.964 136.632z M202.475 11.2021c-31.4814 50.0654 -61.8037 98.2891 -92.1279 146.512c0.370117 0.477539 0.741211 0.952148 1.11133 1.42871c2.54199 -2.04785 56.6221 -45.4121 80.9092 -65.3027c6.7666 -5.54102 11.8789 -5.44141 18.916 0.274414 c82.584 67.085 174.737 117.862 272.583 158.809c5.22266 2.18457 10.6396 3.91602 15.9824 5.81641c1.18652 0.419922 2.44043 0.65332 4.15137 0.22168c-113.623 -65.9873 -222.022 -138.238 -301.526 -247.76z"/></svg></a>
+    <a href="https://www.linkedin.com/in/spandana-gella-313b7019/" title="LinkedIn"><svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></a>
+    <a href="https://github.com/spandanagella" title="GitHub"><svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg></a>
+    <a href="https://twitter.com/gspandana" title="Twitter"><svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
   </div>
-  <div>
-    <strong>Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents</strong><br>
-    Sina Hajimiri, Masih Aminbeidokhti, Jose Dolz, Ismail Ben Ayed, Issam H. Laradji, Nicolas Gontier*, <strong>Spandana Gella*</strong><br>
-    <em>EMNLP 2026</em> <a href="https://arxiv.org/pdf/2606.15017">[paper]</a> <a href="https://sinahmr.github.io/budget-constrained-web-agents/">[website]</a> <a href="https://github.com/ServiceNow/budget-constrained-web-agents">[code]</a>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/talks/">Invited Talks/Panels</a></li>
+    <li><a href="/publications/">Publications</a></li>
+    <li><a href="/service/">Service</a></li>
+    <li><a href="/CV_Spandana.pdf">CV</a></li>
+  </ul>
+</nav>
+
+<header class="home-header">
+  <h1><b>Spandana</b> Gella</h1>
+  <p class="subtitle">Research Lead, <a href="https://www.servicenow.com/research/">ServiceNow AI Research</a></p>
+</header>
+
+<article class="home-profile">
+  <div class="profile">
+    <img src="/assets/images/profile.jpg" alt="Spandana Gella">
   </div>
+    <p class="bio">I am a <strong>Research Lead</strong> for Safety and Security of Agents at <a href="https://www.servicenow.com/research/">ServiceNow AI Research</a>, an <strong>Adjunct Professor</strong> at the School of Computer Science, <a href="https://www.mcgill.ca/">McGill University</a>, and an <strong>Associate Industry Member</strong> at <a href="https://mila.quebec/en/">Mila</a>. My research focuses on building robust and safe AI agents: agentic harnesses, defenses against adversarial and unsafe behavior, reliable agent evaluation, and multi-agent security and privacy.</p>
+    <p class="bio">In the past, I worked on:</p>
+    <ul class="past-work">
+      <li><strong>Agent Safety &amp; Security</strong>: evaluating and defending agents against unsafe behavior, prompt injection, and privacy leakage. Check out <a href="https://arxiv.org/abs/2503.04957">SafeArena</a> (ICML 2025), <a href="https://privacyalign.github.io/">PrivacyAlign</a>, <a href="https://arxiv.org/pdf/2605.30727">MosaicLeaks</a> (EACL 2027), and <a href="https://huggingface.co/datasets/ServiceNow/PiSAs">PiSAs</a>.</li>
+      <li><strong>Computer-Use &amp; Web Agents</strong>: benchmarks and training data for GUI grounding, desktop interaction, and web tasks. Check out <a href="https://arxiv.org/abs/2503.15661">UI-Vision</a> (ICML 2025), <a href="https://arxiv.org/abs/2511.07332">GroundCUA</a> (ICLR 2026), <a href="https://cua-suite.github.io/">CUA-Suite</a>, and <a href="https://neurips.cc/virtual/2026/poster/139782">WebArena-Pro</a>.</li>
+      <li><strong>Multimodal Document &amp; Chart Understanding</strong>: open datasets and models for reading documents, charts, and sketches. Check out <a href="https://arxiv.org/abs/2412.04626">BigDocs</a> (ICLR 2025), <a href="https://arxiv.org/abs/2502.01341">AlignVLM</a> (NeurIPS 2025), <a href="https://arxiv.org/abs/2508.09804">BigCharts-R1</a> (COLM 2025), and <a href="https://arxiv.org/abs/2503.21889">StarFlow</a> (EACL 2026).</li>
+    </ul>
+    <p class="bio">I received my <strong>Ph.D. in Computer Science</strong> from the <strong>University of Edinburgh</strong>, advised by <a href="https://homepages.inf.ed.ac.uk/mlap/">Prof. Mirella Lapata</a> and <a href="https://homepages.inf.ed.ac.uk/keller/">Prof. Frank Keller</a>. I was also fortunate to work with <a href="https://en.wikipedia.org/wiki/Margaret_Mitchell_(scientist)">Margaret Mitchell</a> at <strong>Microsoft Research</strong>, with <a href="https://ai.meta.com/people/209431298931133/mike-lewis/">Mike Lewis</a> and <a href="https://rohrbach.vision/">Marcus Rohrbach</a> at <strong>FAIR (Meta)</strong>, and with <a href="https://hhexiy.ai/">He He</a> and <a href="https://siebelschool.illinois.edu/about/people/all-faculty/dilek">Dilek Hakkani-Tur</a> at <strong>Amazon AI</strong>.</p>
+    <p class="bio">I've organized workshops and shared tasks, and served as Area Chair and Program Committee member at major NLP/ML conferences. Feel free to reach out!</p>
+</article>
+
+<section class="home-section">
+  <h2>News</h2>
+  <ul class="news-feed">
+    <li class="news-item"><span class="news-date">2026</span><span class="news-text">Will be presenting <a href="https://privacyalign.github.io/">PrivacyAlign</a>, MosaicLeaks, and Loose Lips at HAIPS@COLM</span></li>
+    <li class="news-item"><span class="news-date">2026</span><span class="news-text"><a href="https://arxiv.org/pdf/2606.15017">Budget-Constrained Web Agents</a> accepted at <strong>EMNLP 2026</strong> (main conference)</span></li>
+    <li class="news-item"><span class="news-date">2026</span><span class="news-text"><a href="https://arxiv.org/pdf/2603.29852">VectorGym</a> accepted at <strong>EMNLP 2026</strong> (main conference)</span></li>
+    <li class="news-item"><span class="news-date">2026</span><span class="news-text"><a href="https://arxiv.org/pdf/2605.30727">MosaicLeaks</a>: our paper on how deep research agents leak private information through their open web queries is out</span></li>
+    <li class="news-item"><span class="news-date">2026</span><span class="news-text">Organizing the <a href="https://lifelongagent.github.io/">Lifelong Agents workshop</a> at <strong>COLM 2026</strong></span></li>
+    <li class="news-item"><span class="news-date">2026</span><span class="news-text">Presenting a tutorial on Multimodal Agents at <a href="https://mllm4haii.github.io/"><strong>EACL 2026</strong></a> &mdash; <a href="https://drive.google.com/file/d/14M9BitUWukBwnURgihzxG9zUYSAfWEnN/view?usp=sharing">slides</a></span></li>
+    <li class="news-item"><span class="news-date">2026</span><span class="news-text"><a href="https://cua-suite.github.io/">CUA-Suite</a> released &mdash; a suite of benchmarks and tools for evaluating computer use agents</span></li>
+    <li class="news-item"><span class="news-date">2026</span><span class="news-text">GroundCUA and DrBench accepted at <strong>ICLR 2026</strong></span></li>
+    <li class="news-item"><span class="news-date">2026</span><span class="news-text"><a href="https://arxiv.org/abs/2503.21889">StarFlow</a>: Generating Structured Workflow Outputs From Sketch Images accepted at <strong>EACL 2026</strong> (main conference)</span></li>
+  </ul>
+</section>
+
+<div class="home-social">
+    <a href="mailto:spandana.gella@servicenow.com" title="Email"><svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"/></svg></a>
+    <a href="https://scholar.google.com/citations?user=fChTW6MAAAAJ" title="Google Scholar"><svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true"><path d="M12 3 1 9l4 2.18V17c0 .55.45 1 1 1h12c.55 0 1-.45 1-1v-5.82L21 9l-9-6zM5 13.18V11l7 3.82 7-3.82v2.18l-7 3.82-7-3.82zM12 12.82 3.5 8.5 12 4.18 20.5 8.5 12 12.82z"/></svg></a>
+    <a href="https://www.semanticscholar.org/author/Spandana-Gella/2921001" title="Semantic Scholar"><svg viewBox="0 -64 512 512" fill="currentColor" width="20" height="20" aria-hidden="true"><path transform="translate(0 384) scale(1 -1)" d="M379.087 372.798c18.168 -40.6836 25.5332 -83.8896 32.4209 -127.209c-1.26562 -0.359375 -2.52832 -0.72168 -3.79395 -1.08301c-0.911133 2.5332 -1.98438 5.02148 -2.70703 7.60938c-5.21875 18.6543 -10.4795 37.2969 -15.4736 56.0117 c-1.79688 6.73242 -6.03516 10.084 -12.0957 13.3818c-8.90137 4.84082 -17.3135 11.083 -24.6904 18.0449c-4.70703 4.44141 -8.73438 7.14941 -15.4131 7.07812c-44.46 -0.469727 -88.9258 -0.514648 -133.384 -0.923828 c-2.96387 -0.0292969 -6.63086 -1.12402 -8.72852 -3.06445c-8.08887 -7.48535 -15.6709 -15.5146 -25.6416 -25.5557c26.2988 -64.041 39.5225 -133.841 33.8447 -208.045c-12.626 8.08398 -22.4004 14.4795 -22.9814 31.418 c-2.90332 84.6611 -29.0195 161.225 -83.5801 227.108c-1.22754 1.48242 -1.83691 3.47559 -2.7373 5.22949h284.961v-0.000976563zM48.7295 340.153c12.6631 0 25.333 0.200195 37.9844 -0.171875c2.51074 -0.0722656 6.02246 -1.66797 7.27734 -3.67969 c37.8359 -60.791 67.333 -124.636 71.1553 -197.683c0.0175781 -0.289062 -0.283203 -0.594727 -1.36328 -2.7168c-22.6113 77.2939 -63.4033 142.736 -115.871 201.392c0.274414 0.951172 0.544922 1.90527 0.818359 2.8584zM8.00098 286.971 c18.0889 0.658203 33.3887 1.31738 48.6904 1.60254c1.54199 0.0292969 3.36133 -2.00879 4.65137 -3.44336c29.8477 -33.2021 56.9355 -68.2812 73.6318 -110.235c3.17773 -7.97949 5.35156 -16.3594 7.98926 -24.5547c-34.584 54.4248 -82.7109 95.123 -134.964 136.632z M202.475 11.2021c-31.4814 50.0654 -61.8037 98.2891 -92.1279 146.512c0.370117 0.477539 0.741211 0.952148 1.11133 1.42871c2.54199 -2.04785 56.6221 -45.4121 80.9092 -65.3027c6.7666 -5.54102 11.8789 -5.44141 18.916 0.274414 c82.584 67.085 174.737 117.862 272.583 158.809c5.22266 2.18457 10.6396 3.91602 15.9824 5.81641c1.18652 0.419922 2.44043 0.65332 4.15137 0.22168c-113.623 -65.9873 -222.022 -138.238 -301.526 -247.76z"/></svg></a>
+    <a href="https://www.linkedin.com/in/spandana-gella-313b7019/" title="LinkedIn"><svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></a>
+    <a href="https://github.com/spandanagella" title="GitHub"><svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg></a>
+    <a href="https://twitter.com/gspandana" title="Twitter"><svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+  </div>
+
 </div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="margin-right: 15px; flex-shrink: 0;">
-    <a href="https://arxiv.org/pdf/2603.29852"><img src="/assets/images/papers/2603.29852.png" alt="VectorGym" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
-  </div>
-  <div>
-    <strong>VectorGym: A Multitask Benchmark for SVG Code Generation, Sketching, and Editing</strong><br>
-    Joan Rodriguez, Haotian Zhang, Abhay Puri, Aly Shariff, Meng Lin, Xiaoqing Xie, Tianyang Zhang, Haoran Dai, Rishav Pramanik, Darsh Kaushik, Marco Terral Rodriguez, Sai Rajeswar, Perouz Taslakian, <strong>Spandana Gella</strong>, David Vazquez, Christopher Pal, Marco Pedersoli<br>
-    <em>EMNLP 2026</em> <a href="https://arxiv.org/pdf/2603.29852">[paper]</a> <a href="https://github.com/ServiceNow/VectorGym">[code]</a> <a href="https://huggingface.co/datasets/ServiceNow/VectorGym">[dataset]</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="margin-right: 15px; flex-shrink: 0;">
-    <a href="https://arxiv.org/abs/2511.07332"><img src="/assets/images/papers/2511.07332.png" alt="GroundCUA" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
-  </div>
-  <div>
-    <strong>Grounding Computer Use Agents on Human Demonstrations</strong><br>
-    Aarash Feizi, Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Kaixin Li, Rabiul Awal, Xing Han Lù, Johan Obando-Ceron, Juan A. Rodriguez, Nicolas Chapados, David Vazquez, Adriana Romero-Soriano, Reihaneh Rabbany, Perouz Taslakian, Christopher Pal, Sai Rajeswar, <strong>Spandana Gella</strong><br>
-    <em>ICLR 2026</em> <a href="https://arxiv.org/abs/2511.07332">[paper]</a> <a href="https://groundcua.github.io/">[website]</a> <a href="https://github.com/ServiceNow/GroundCUA">[code]</a> <a href="https://huggingface.co/datasets/ServiceNow/GroundCUA">[dataset]</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="margin-right: 15px; flex-shrink: 0;">
-    <a href="https://arxiv.org/abs/2510.00172"><img src="/assets/images/papers/2510.00172.png" alt="DRBench" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
-  </div>
-  <div>
-    <strong>DRBench: A Realistic Benchmark for Enterprise Deep Research</strong><br>
-    Amirhossein Abaskohi, Tianyi Chen, Miguel Muñoz-Mármol, Curtis Fox, Amrutha Varshini Ramesh, Étienne Marcotte, Xing Han Lù, Nicolas Chapados, <strong>Spandana Gella</strong>, Christopher Pal, Alexandre Drouin, Issam H. Laradji<br>
-    <em>ICLR 2026</em> <a href="https://arxiv.org/abs/2510.00172">[paper]</a> <a href="https://huggingface.co/datasets/ServiceNow/drbench">[dataset]</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="margin-right: 15px; flex-shrink: 0;">
-    <a href="https://arxiv.org/abs/2503.21889"><img src="/assets/images/papers/2503.21889.png" alt="StarFlow" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
-  </div>
-  <div>
-    <strong>StarFlow: Generating Structured Workflow Outputs From Sketch Images</strong><br>
-    Patrice Bechard, Chao Wang, Amirhossein Abaskohi, Juan Rodriguez, Christopher Pal, David Vazquez, <strong>Spandana Gella</strong>, Sai Rajeswar, Perouz Taslakian<br>
-    <em>EACL 2026</em> <a href="https://arxiv.org/abs/2503.21889">[paper]</a> <a href="https://servicenow.github.io/StarFlow/">[website]</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="margin-right: 15px; flex-shrink: 0;">
-    <a href="https://arxiv.org/abs/2503.04957"><img src="/assets/images/papers/2503.04957.png" alt="SafeArena" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
-  </div>
-  <div>
-    <strong>SafeArena: Evaluating the Safety of Autonomous Web Agents</strong><br>
-    Ada Tur, Nicholas Meade, ..., <strong>Spandana Gella</strong>, Karolina Stanczak, Siva Reddy<br>
-    <em>ICML 2025</em> <a href="https://arxiv.org/abs/2503.04957">[paper]</a> <a href="https://safearena.github.io/">[website]</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="margin-right: 15px; flex-shrink: 0;">
-    <a href="https://arxiv.org/abs/2503.15661"><img src="/assets/images/papers/2503.15661.png" alt="UI-Vision" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
-  </div>
-  <div>
-    <strong>UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction</strong><br>
-    Shravan Nayak, ..., <strong>Spandana Gella</strong>, Sai Rajeswar Mudumba<br>
-    <em>ICML 2025</em> <a href="https://arxiv.org/abs/2503.15661">[paper]</a> <a href="https://uivision.github.io/">[website]</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="margin-right: 15px; flex-shrink: 0;">
-    <a href="https://arxiv.org/abs/2412.04626"><img src="/assets/images/papers/2412.04626.png" alt="BigDocs" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
-  </div>
-  <div>
-    <strong>BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models</strong><br>
-    Juan A. Rodriguez, ..., <strong>Spandana Gella</strong>, et al.<br>
-    <em>ICLR 2025</em> <a href="https://arxiv.org/abs/2412.04626">[paper]</a> <a href="https://bigdocs.github.io/">[website]</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="margin-right: 15px; flex-shrink: 0;">
-    <a href="https://arxiv.org/abs/2508.09804"><img src="/assets/images/papers/2508.09804.png" alt="BigCharts-R1" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
-  </div>
-  <div>
-    <strong>BigCharts-R1: Enhanced Chart Reasoning with Visual Reinforcement Finetuning</strong><br>
-    Ahmed Masry, Abhay Puri, Masoud Hashemi, Juan A. Rodriguez, ..., Perouz Taslakian, Sai Rajeswar, <strong>Spandana Gella</strong><br>
-    <em>COLM 2025</em> <a href="https://arxiv.org/abs/2508.09804">[paper]</a> <a href="https://bigcharts.github.io/">[website]</a> <a href="https://github.com/ServiceNow/BigCharts-R1">[code]</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="margin-right: 15px; flex-shrink: 0;">
-    <a href="https://arxiv.org/abs/2502.01341"><img src="/assets/images/papers/2502.01341.png" alt="AlignVLM" style="width: 150px; border: 1px solid #ddd; border-radius: 4px;"></a>
-  </div>
-  <div>
-    <strong>AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Understanding</strong><br>
-    Ahmed Masry, ..., <strong>Spandana Gella</strong>, Sai Rajeswar Mudumba<br>
-    <em>NeurIPS 2025</em> <a href="https://arxiv.org/abs/2502.01341">[paper]</a> <a href="https://alignvlm.github.io/">[website]</a>
-  </div>
-</div>
-
----
-
-## Contact
-
-Feel free to reach out via email or connect on LinkedIn!
